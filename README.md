@@ -7,7 +7,7 @@
 font-family: Great Vibes(title), sans-serif, Poppins
 navbar bg-color: #6d0019 color:#f0e6e8 overline color: #f0e6e8
 gender: man, woman, other
-labels: JavaScript King, JavaScriptQueeen, CSS PRINCE/ PRINCESS, SCRUM WIZZARD/ SCRUM ENCHANTRESS
+labels: JavaScript King, JavaScriptQueeen, CSS PRINCE/ PRINCESS, SCRUM MAGE/ SCRUM MAGE
  <!-- ************************************************ -->
  
  <!-- HERMON -->
@@ -27,6 +27,7 @@ background-image: linear-gradient(to bottom, #6d0019, #93424a, #b5777e, #d3aeb3,
  btn -> border-radius: 0 50 0 50 bg-color: #570014 
  letter_spacing: .75px, color: #f0e6e8
  bg-image:
+ <p>This is not your ordinary dating site, it represents much more than that...it allows you to develop beautiful friendships, find a mentor, the chance of discovering new career opportunities, and lastly, the chance of finding your one true love, and establishing a deep soul-to-soul connection! Curious?... Give it a try!</p>
 <!-- **************************************************** -->
 
 <!-- SEGEN -->
