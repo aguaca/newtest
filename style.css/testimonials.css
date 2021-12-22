@@ -4,5 +4,11 @@
   box-sizing: border-box;
 }
 body {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient( rgba(226, 204, 209, 0.507),rgba(109, 0, 25, 0.5) ),url(../img/testimonial-img/bg-img.jpg);
   
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
