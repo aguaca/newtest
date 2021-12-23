@@ -113,6 +113,7 @@ figure {
 	height: 9.8rem;
 	width: 9.8rem;
 	transition: all 0.5s;
+	opacity: 0.3;
 }
 
 .img-fluid:hover {
@@ -122,4 +123,5 @@ figure {
 	height: 10rem;
 	width: 10rem;
 	transform: scale(1.2);
+	opacity: 1;
 }
