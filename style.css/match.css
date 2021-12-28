@@ -19,7 +19,8 @@ body {
 nav {
 	background-color: rgba(87, 0, 20, 0.527);
 	height: 4em;
-	z-index: 1;
+	/* z-index: 1; */
+	
 }
 
 .navbar-brand {
@@ -27,6 +28,10 @@ nav {
 	font-family: 'Great Vibes', cursive;
 	font-size: 2em;
 	font-weight: 400;
+}
+.collapse {
+	background: rgba(87, 0, 20, 0.527);
+	
 }
 /* logo nav-anim */
 .heart-logo {
